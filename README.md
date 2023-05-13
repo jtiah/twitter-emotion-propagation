@@ -11,6 +11,8 @@ Code contains the code used to run the project. The main results of the project 
 - Libraries: Libraries of functions to for the workflow to use, to hide the complexity.
 	- network_distance.py: Code by (Coscia, 2020) for finding the distance in a network. See https://www.michelecoscia.com/wp-content/uploads/2020/03/FULL-CosciaM1099.pdf for source.
 	- utils.py: All the functions used in the workflow.
+- NLP_model: Folder for work on NLP, to keep the main workflow cleen
+	- TweetNLP Fine Tuning and Entropy Cut Off.ipynb: Notebook to explore the entropy cutoff and the classifications of annotated data
 
 
 
